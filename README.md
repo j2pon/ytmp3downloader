@@ -124,6 +124,15 @@ mp3/
 
 ### Menü Görünümü
 
+<div align="center">
+
+![J2PON YTMP3 Menü](screenshot.png)
+
+*Renkli gradient menü ve ASCII art başlık*
+
+</div>
+
+**Terminal Çıktısı:**
 ```
 ============================================================
      🎵 J2PON YTMP3
